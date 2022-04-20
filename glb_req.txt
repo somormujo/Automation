@@ -1,0 +1,11 @@
+autopep8
+flake8
+jedi
+wheel
+numpy
+pandas
+streamlit
+seaborn
+beautifulsoup4
+bonobo
+matplotlib
